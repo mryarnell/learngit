@@ -21,7 +21,11 @@
 int main(void)
 {
     printf("hello world\n");
-    printf("I am TYN\n");
-    printf("I am TYN\n");
+    printf("I am TYN1\n");
+    printf("I am TYN2\n");
+    printf("I am TYN3\n");
+    printf("I am TYN4\n");
+    printf("I am TYN5\n");
+    printf("I am TYN6\n");
     return 0;
 }
