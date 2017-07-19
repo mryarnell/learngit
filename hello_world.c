@@ -22,5 +22,6 @@ int main(void)
 {
     printf("hello world\n");
     printf("I am TYN\n");
+    printf("I am TYN\n");
     return 0;
 }
